@@ -3,12 +3,12 @@
 		<link>
 			<name>تابعني على تويتر</name>
 			<url>https://twitter.com/74ifa</url>
-			<iconclass>SOuceFeelGood</iconclass>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
 		</link>
 		<link>
 			<name>شارك السورس</name>
 			<url>https://github.com/s74ipy/s74i.py</url>
-			<iconclass>SOuceFeelGoo</iconclass>
+			<iconclass>glyphicon glyphicon-heart</iconclass>
 		</link>
 	</footerlinks>
 </repo>
