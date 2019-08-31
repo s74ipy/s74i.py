@@ -1,14 +1,14 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>تابعني على تويتر</name>
+			<url>https://twitter.com/74ifa</url>
+			<iconclass>SOuceFeelGood</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>شارك السورس</name>
+			<url>https://github.com/s74ipy/s74i.py</url>
+			<iconclass>SOuceFeelGoo</iconclass>
 		</link>
 	</footerlinks>
 </repo>
